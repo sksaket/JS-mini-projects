@@ -4,9 +4,9 @@ This is a simple and elegant analog clock built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-You can see a live demo of the analog clock [here](/digitalCalculator/Demo.mp4).
+You can see a live demo of the analog clock [here](/Analog-Clock/Demo.mp4).
 
-![Analog Clock Preview](/digitalCalculator/clock.PNG)
+![Analog Clock Preview](/Analog-Clock/clock.PNG)
 
 ## Features
 
@@ -39,7 +39,7 @@ htmlCopy<link rel="stylesheet" href="style.css">
 Add the HTML structure for the analog clock to your page:
 htmlCopy
 
-![Analog Clock Preview](/digitalCalculator/code.png)
+![Analog Clock Preview](/Analog-Clock/code.png)
 
 
 That's it! The analog clock should now be integrated into your project.
