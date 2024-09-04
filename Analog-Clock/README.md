@@ -65,7 +65,7 @@ This project is licensed under the MIT License.
 Feel free to reach out:
 
 - GitHub: [https://github.com/sksaket](https://github.com/sksaket)
-- Email: [saketkhatavkar@gmail.com](saketkhatavkar@example.com)
+- Email: [saketkhatavkar@gmail.com](saketkhatavkar@gmail.com)
 
 ## Acknowledgements
 
